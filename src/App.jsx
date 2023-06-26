@@ -4,7 +4,6 @@ function App() {
   return (
     <BrowserRouter>
         <div className='relative z-0 bg-primary'>
-            <h2>Is this working?</h2>
             <Navbar/>
         </div>
     </BrowserRouter>
